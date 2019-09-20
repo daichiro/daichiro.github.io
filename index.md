@@ -56,7 +56,7 @@ Develop functions that should be improved.
 ## Activity
 
 - [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit) (February 2016 - March 2018)
-- [SwiftWebViewProgress](https://github.com/mokumoku/SwiftWebViewProgress) (March 2016 - June 2017)
+- [SwiftWebViewProgress](https://github.com/daichiro/SwiftWebViewProgress) (March 2016 - June 2017)
 
 ## Education
 
@@ -71,6 +71,6 @@ Concentration: A Comparison of HTML5 and Flash, Katsuhiko Gondow Lab
 
 ## Others
 
-- https://github.com/mokumoku
+- https://github.com/daichiro
 - https://mokumoku.cloud
 - https://qiita.com/mokumoku
