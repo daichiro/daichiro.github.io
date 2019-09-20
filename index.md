@@ -1,4 +1,4 @@
-mokumoku (Daichi Ichihara)
+daichiro (Daichi Ichihara)
 ==========
 
 Software Engineer, interested in:
@@ -10,7 +10,7 @@ Software Engineer, interested in:
 
 ## Work Experience
 
-### Dwango Co., Ltd. (Software Engineer, April 2014-)
+### Dwango Co., Ltd. (Software Engineer, April 2014 - September 2019)
 
 #### nicocas (July 2017-)
 
