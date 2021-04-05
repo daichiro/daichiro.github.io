@@ -10,13 +10,27 @@ Software Engineer, interested in:
 
 ## Work Experience
 
+### TECHFUND Inc. (Software Engineer, April 2021 - Present)
+
+TBD
+
+### Merpay, Inc. seconded from Mercari, Inc. (Software Engineer(iOS), September 2019 - Present)
+
+#### Individual Contributer
+
+Develop some features
+
+#### Tech Lead
+
+Develop a new feature for connection mercari account and d-account
+
 ### Dwango Co., Ltd. (Software Engineer, April 2014 - September 2019)
 
 #### nicocas (July 2017-)
 
 nicocas is a live streaming service like niconico live(ニコニコ生放送).
 
-##### Member (July 2017 - October 2018)
+##### Individual Contributer (July 2017 - October 2018)
 
 Develop some new function of application.
 
@@ -73,4 +87,4 @@ Concentration: A Comparison of HTML5 and Flash, Katsuhiko Gondow Lab
 
 - https://github.com/daichiro
 - https://mokumoku.cloud
-- https://qiita.com/mokumoku
+- https://qiita.com/daichiro
