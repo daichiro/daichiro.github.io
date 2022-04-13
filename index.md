@@ -10,11 +10,15 @@ Software Engineer, interested in:
 
 ## Work Experience
 
-### TECHFUND Inc. (Software Engineer, April 2021 - Present)
+### Mercoin, Inc. seconded from Mercari, Inc. (Software Engineer(iOS), September 2021 - Present)
 
 TBD
 
-### Merpay, Inc. seconded from Mercari, Inc. (Software Engineer(iOS), September 2019 - Present)
+### TECHFUND Inc. (Software Engineer, April 2021 - Present)
+
+Support other company new challenge as iOS engineer.
+
+### Merpay, Inc. seconded from Mercari, Inc. (Software Engineer(iOS), September 2019 - August 2021)
 
 #### Individual Contributer
 
@@ -69,6 +73,7 @@ Develop functions that should be improved.
 
 ## Activity
 
+- [QRScanner](https://github.com/mercari/QRScanner) (November 2019)
 - [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit) (February 2016 - March 2018)
 - [SwiftWebViewProgress](https://github.com/daichiro/SwiftWebViewProgress) (March 2016 - June 2017)
 
