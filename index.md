@@ -12,9 +12,16 @@ Software Engineer, interested in:
 
 ### Mercoin, Inc. seconded from Mercari, Inc. (Software Engineer(iOS), September 2021 - Present)
 
-TBD
+Lead a team of 2-3 and develop Mercoin features as a SDK.
 
-### TECHFUND Inc. (Software Engineer, April 2021 - Present)
+Introduce FIDO authentication into Mercari app.
+
+### PetVoice K.K. (Software Engineer(iOS), April 2022 - Present)
+
+iOS engineer is only me.  
+Develop iOS app which uses bluetooth LE and geolocation.
+
+### TECHFUND Inc. (Software Engineer, April 2021 - April 2023)
 
 Support other company new challenge as iOS engineer.
 
