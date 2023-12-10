@@ -3,7 +3,7 @@ daichiro (Daichi Ichihara)
 
 Software Engineer, interested in:
 
-- Moblie Application (iOS)
+- Mobile Application (iOS)
 - Swift Programming Language
 - CI/CD
 - Programming Education
