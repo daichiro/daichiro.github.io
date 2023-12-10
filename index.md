@@ -16,14 +16,20 @@ Lead a team of 2-3 and develop Mercoin features as a SDK.
 
 Introduce FIDO authentication into Mercari app.
 
+> Swift, SwiftUI, Unidirectional data flow, (bazel)
+
 ### PetVoice K.K. (Software Engineer(iOS), April 2022 - Present)
 
 iOS engineer is only me.  
 Develop iOS app which uses bluetooth LE and geolocation.
 
-### TECHFUND Inc. (Software Engineer, April 2021 - April 2023)
+> Swift, SwiftUI, BLE
+
+### TECHFUND Inc. (Software Engineer, April 2021 - Present)
 
 Support other company new challenge as iOS engineer.
+
+Develop iOS apps from scratch.
 
 ### Merpay, Inc. seconded from Mercari, Inc. (Software Engineer(iOS), September 2019 - August 2021)
 
